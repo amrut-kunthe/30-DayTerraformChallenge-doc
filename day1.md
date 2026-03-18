@@ -1,4 +1,3 @@
-</> Markdown
 # What is Infrastructure as Code and Why It's Transforming DevOps
 
 > **Day 1 — 30-Day Terraform Challenge**  
@@ -205,4 +204,6 @@ Wrapping up Day 1, here are the ideas that are sticking with me:
 
 ---
 
-**Tags:** `Terraform` · `IaC` · `Infrastructure as Code` · `DevOps` · `HashiCorp` · `AWS` · `30DayTerraformChallenge` · `LearningInPublic`
+**Tags:**
+
+`Terraform` · `IaC` · `Infrastructure as Code` · `HashiCorp` · `HCL` · `TerraformRegistry` · `TerraformCloud` · `30DayTerraformChallenge` · `TerraformChallenge` · `TerraformSetup` · `DevOps` · `DevSecOps` · `GitOps` · `SRE` · `SiteReliabilityEngineering` · `PlatformEngineering` · `CloudEngineering` · `CloudComputing` · `CloudNative` · `CloudArchitecture` · `MultiCloud` · `AWS` · `AWSUG` · `AWSCloud` · `AWSUserGroupKenya` · `EveOps` · `MeruHashiCorpUserGroup` · `GCP` · `Azure` · `Kubernetes` · `Docker` · `Containers` · `Microservices` · `Serverless` · `Automation` · `CI_CD` · `CICD` · `ContinuousIntegration` · `ContinuousDelivery` · `VersionControl` · `Git` · `GitHub` · `OpenSource` · `SoftwareEngineering` · `BackendEngineering` · `SystemDesign` · `CloudSecurity` · `IAM` · `Programming` · `Coding` · `Tech` · `Technology` · `Engineering` · `LearningInPublic` · `100DaysOfCode` · `TechCommunity` · `TechAfrica` · `AfricaInTech` · `KenyaTech` · `WomenInTech` · `Developer` · `SoftwareDeveloper` · `CloudDeveloper` · `DevOpsEngineer` · `CloudEngineer` · `Tutorial` · `TechBlog` · `TechEducation` · `LearnToCode` · `CodeNewbie` · `BeginnerDeveloper`
